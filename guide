@@ -1,0 +1,9 @@
+Ctrl+ p : tìm kiếm (thêm > nếu muốn tìm chức năng, @ tìm kiếm theo ký hiệu, # tìm theo tên biểu tượng )
+Ctrl + f: tìm kiếm từ trong một bài code 
+Ctrl + G : tìm kiếm theo dòng 
+Ctrl +trái/phải : nhảy theo từ trong code 
+Ctrl + x : cắt một dòng
+Alt + lên/xuống : di chuyển một dòng 
+Alt + shift + lên/xuống :copy lên xuống 
+Ctrl + L : bôi đen dòng 
+Ctrl + / : comment lại một dòng 
