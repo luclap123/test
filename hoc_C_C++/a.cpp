@@ -1,25 +1,13 @@
-// tìm ước chung lớn nhất bằng đệ quy đuôi
 #include <iostream>
-#include <iomanip>
 using namespace std;
-
-int gcd (int x, int y)
+int multiply(int a, int b)
 {
-    int r;
-    if (x<y)
-    return gcd(y,x);
-    r=x%y;
-    if (r==0)
-    return y;
-    else
-    return gcd(r,y);
-
+    return a * b;
 }
-
-int main() 
+int main ()
 {
-    int x=25;
-    int y=5;
-    int a=gcd(x,y);
-    cout<<a;
+  int a=5;
+  int b=5;
+  int s=multiply(a,b);
+  cout<<s;
 }

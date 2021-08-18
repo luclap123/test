@@ -4,7 +4,97 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-    
+        {
+            "type": "java",
+            "name": "Launch bai2",
+            "request": "launch",
+            "mainClass": "recursion.bai2",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai4",
+            "request": "launch",
+            "mainClass": "bai4",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai3",
+            "request": "launch",
+            "mainClass": "bai3",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "OOP.bai1.main",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai1",
+            "request": "launch",
+            "mainClass": "array.bai1",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch trycatch",
+            "request": "launch",
+            "mainClass": "trycatch",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch nhiphan",
+            "request": "launch",
+            "mainClass": "nhiphan",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch countday",
+            "request": "launch",
+            "mainClass": "countday",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch giaipt2",
+            "request": "launch",
+            "mainClass": "giaipt2",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai1",
+            "request": "launch",
+            "mainClass": "bai1",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch welcome",
+            "request": "launch",
+            "mainClass": "welcome",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
         {
             "name": "C/C++: Build and debug active file",
             "type": "cppdbg",
