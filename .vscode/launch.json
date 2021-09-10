@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch bai11",
+            "request": "launch",
+            "mainClass": "String.bai11",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai10",
+            "request": "launch",
+            "mainClass": "String.bai10",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai8",
+            "request": "launch",
+            "mainClass": "String.bai8",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai2",
+            "request": "launch",
+            "mainClass": "array.bai2",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai9",
+            "request": "launch",
+            "mainClass": "String.bai9",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai8",
+            "request": "launch",
+            "mainClass": "bai8",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai7",
+            "request": "launch",
+            "mainClass": "bai7",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai6",
+            "request": "launch",
+            "mainClass": "bai6",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai5",
+            "request": "launch",
+            "mainClass": "bai5",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai2",
+            "request": "launch",
+            "mainClass": "bai2",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
             "name": "Launch bai2",
             "request": "launch",
             "mainClass": "recursion.bai2",
