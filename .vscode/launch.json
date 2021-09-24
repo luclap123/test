@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "BaitapC_C++_1551c2f5"
+        },
+        {
+            "type": "java",
             "name": "Launch bai11",
             "request": "launch",
             "mainClass": "String.bai11",

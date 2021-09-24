@@ -6,5 +6,9 @@
         "string": "cpp",
         "iosfwd": "cpp"
     },
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "java.project.sourcePaths": [
+        "learn_java/Begin/bai24",
+        "learn_java/Begin"
+    ]
 }

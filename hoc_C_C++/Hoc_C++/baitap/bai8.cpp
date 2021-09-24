@@ -21,7 +21,7 @@ void output (int a[], int n)
     }
 }
 
-void sort (int a[], int n)
+void bubble_sort (int a[], int n)
 {
     for (int i = 0; i < n-1; i++)
     {
@@ -46,7 +46,7 @@ int main ()
     cin>>n;
     input (a,n);
     output (a,n);
-    sort (a,n);
+    bubble_sort (a,n);
     cout<<"after sort increase : "<<endl;
     output (a,n);
 }
