@@ -117,13 +117,17 @@ int main ()
     cout<<"input number : ";
     cin>>n;
     employee **a;
+
     list_input(a,n);
+
     cout<<"list"<<endl;
     list_output(a,n);
     interchange(a, n);
+
     cout<<"after sort interchange: "<<endl;
     list_output(a,n);
     bubble(a,n);
+
     cout<<"after sort bubble: "<<endl;
     list_output(a,n);
 }

@@ -9,7 +9,7 @@ void input(int a[], int n)
     srand(time(NULL));
     for (int i = 0; i < n; i++)
     {
-        a[i] = rand()*10;
+        a[i] = rand()%10;
     }
 }
 

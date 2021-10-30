@@ -4,7 +4,13 @@
         "ostream": "cpp",
         "istream": "cpp",
         "string": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "iomanip": "cpp",
+        "list": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp"
     },
     "git.ignoreLimitWarning": true,
     "java.project.sourcePaths": [
