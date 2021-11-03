@@ -17,6 +17,7 @@ int result (int n, int k)
 }
 int main ()
 {
+    // xim chao moi nguoi
     int n, k;
     cout<<"input n: ";
     cin>>n;
